@@ -1,17 +1,16 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:02:04.283226
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:48
 #+TITLE: 勝鬘經記
 #+PROPERTY: CBETA_ID T85n2761
 #+PROPERTY: ID KR6f0054
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2761
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6f0054_T_001-0253b> 
 #+PROPERTY: JUAN 1
-No.2761[cf.No.353]¶
-
- 勝鬘義記¶
+No. 2761 [cf. No. 353]¶
+勝鬘義記¶
 ¶
 
 無盡明應身無窮智□□□者。明法身無¶
